@@ -1,5 +1,5 @@
 gdfuipaSFh;S?Hv;LS\KNC\X,N V/X.  MM.
 ---
-title: "YOUR-TITLE"
-date: YYYY-MM-DD
+title: "my-first-blog"
+date: 2022-08-31
 ---
